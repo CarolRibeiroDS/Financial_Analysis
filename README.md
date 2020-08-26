@@ -5,7 +5,7 @@
 </p>
 
 
-This is my repo for the course <b>Python and Statistics for Financial Analysis</b> from Coursera.<br>
+This is my repo for the course <b>Python and Statistics for Financial Analysis</b> from Coursera and THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY.<br>
  <br>
  This course is an offering from HKUST Center for Education Innovation. <br>
  <br>You can enroll: https://www.coursera.org/learn/python-statistics-financial-analysis/ <br>
