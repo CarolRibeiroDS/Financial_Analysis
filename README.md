@@ -1,6 +1,9 @@
 # Python and Statistics for Financial Analysis
 
-![Certificado](Certificado.jpg)
+<p align="center">
+    <img alt="Certificado" src="https://github.com/CarolRibeiroDS/Financial_Analysis/Certificado.jpg">
+</p>
+
 
 This is the repo for the course Python_and_Statistical_for_Financial_Analysis from Coursera.<br>
 https://www.coursera.org/learn/python-statistics-financial-analysis/home/welcome
