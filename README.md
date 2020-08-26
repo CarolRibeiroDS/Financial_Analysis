@@ -1,7 +1,7 @@
 # Python and Statistics for Financial Analysis
 
 <p align="center">
-    <img alt="Certificado" src="https://github.com/CarolRibeiroDS/Financial_Analysis/Certificado.jpg">
+    <img alt="Certificado" src="https://github.com/CarolRibeiroDS/Financial_Analysis/Certificado.jpeg">
 </p>
 
 
