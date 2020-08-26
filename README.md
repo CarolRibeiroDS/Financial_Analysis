@@ -5,9 +5,10 @@
 </p>
 
 
-This is the repo for the course Python_and_Statistical_for_Financial_Analysis from Coursera.<br>
-https://www.coursera.org/learn/python-statistics-financial-analysis/home/welcome
-<br>
+This is my repo for the course Python_and_Statistical_for_Financial_Analysis from Coursera.<br>
+ <br>
+ This course is an offering from HKUST Center for Education Innovation. <br>
+ <br>You can enroll: https://www.coursera.org/learn/python-statistics-financial-analysis/ <br>
 <br>
 Python is now becoming the number 1 programming language for data science. Due to python’s simplicity and high readability, it is gaining its importance in the financial industry.  The course combines both python coding and statistical concepts and applies into analyzing financial data, such as stock data.<br>
 <br>
