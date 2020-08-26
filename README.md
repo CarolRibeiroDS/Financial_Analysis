@@ -16,13 +16,7 @@ Python is now becoming the number 1 programming language for data science. Due t
 By the end of the course, you can achieve the following using python:<br>
 <br>
 - Import, pre-process, save and visualize financial data into pandas Dataframe<br>
-<br>
 - Manipulate the existing financial data by generating new variables using multiple columns<br>
-<br>
 - Recall and apply the important statistical concepts (random variable, frequency, distribution, population and sample, confidence interval, linear regression, etc. ) into financial contexts<br>
-<br>
 - Build a trading model using multiple linear regression model <br>
-<br>
 - Evaluate the performance of the trading model using different investment indicators<br>
-<br>
-Jupyter Notebook environment is configured in the course platform for practicing python coding without installing any client applications.<br>
